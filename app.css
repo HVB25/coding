@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+}
+.navigate {
+    align-items: center;
+    word-spacing: 5px;
+    margin: 20px 0 0 40%;
+    color: azure;
+}
+nav {
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+    color: azure;
+}
+.home {
+    background-color: azure;
+    margin: 0 0 0 25%;
+    width: 60%;
+    padding: 20px;
+}
+.about {
+    background-color: azure;
+    margin: 0 0 0 25%;
+    width: 60%;
+    text-align: center;
+    padding: 20px;
+}
+a.resume {
+    background-color: azure;
+    margin: 2px solid;
+    align-items: center;
+}
+a:hover {
+    color: white;
+    cursor: pointer;
+    /* background-color:  rebecapurple; */
+}
+h1 {
+    text-transform: uppercase;
+}
+h5 {
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.professional{
+    width: 60%;
+    height: 10%;
+    background-color: azure;
+    margin: 0 0 0 25%;
+    padding:  20px;
+}
+.portfolio {
+    width: 60%;
+    height: 10%;
+    background-color: azure;
+    margin: 0 0 0 25%;
+    margin-top: none;
+    padding:  20px;
+}
+h3 {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+section {
+    width: 60%;
+    height: 30%;
+    background-color: azure;
+    margin: 0 0 0 25%;
+    display: flex;
+    padding: 20px;
+}
+.contact {
+    width: 50%;
+    height: 30%;
+}
+.name {
+    display: flex;
+    margin: 20px 0 0 0;
+}
+button {
+    width: 100%;
+    height: 20px;
+    background-color: blue;
+    color: azure;
+}
+button:hover {
+    cursor: pointer;
+    background-color: purple;
+}
+li {
+    text-transform: uppercase;
+}
+p {
+    width: 60%;
+    padding: 0 0 0 50px;
+    text-align: justify;
+    text-indent: 20px;
+    word-spacing: 5px;
+}
+a {
+    padding: 0 0 0 50px;
+}
+input {
+    width: 300px;
+    height: 50px;
+}
+textarea {
+    width: 300px;
+}
